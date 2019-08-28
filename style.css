@@ -1,0 +1,63 @@
+header {
+background-image: url("image/avion.jpg");
+height: 400px;
+background-size: cover;
+background-repeat: no-repeat;
+padding: 25px;
+
+
+
+}
+.recherche {
+
+display: flex;
+
+
+}
+
+.explorer {
+   
+    
+    margin-right: 25px;
+
+}
+.accueil {
+    
+    
+}
+h2{
+    font-family: Circular,-apple-system,
+    BlinkMacSystemFont,
+    Roboto,Helvetica Neue,sans-serif !important;
+    color: blanchedalmond;
+    font-size: 45px;
+
+}
+
+p {
+     
+    font-family: Circular,-apple-system,
+    BlinkMacSystemFont,
+    Roboto,Helvetica Neue,sans-serif !important;
+    color: white;
+    font-size: 22px;
+    font-weight: lighter;
+
+
+}
+.explorer button , .accueil button {
+
+    border: 1px solid black;
+    width: 400px;
+    height: 45px;
+    padding: 10px 50px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: white;
+
+
+}
+.titre {
+    margin: 100px;
+}
