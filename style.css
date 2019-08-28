@@ -34,7 +34,7 @@ h2{
 
 }
 
-p {
+header p {
      
     font-family: Circular,-apple-system,
     BlinkMacSystemFont,
@@ -61,3 +61,36 @@ p {
 .titre {
     margin: 100px;
 }
+.button {
+
+   display: flex;
+   
+   justify-content: space-between;
+   margin: 0px 132px;
+   align-items: flex-end;
+   
+    
+}
+main  {
+    font-size :24px;
+    font-family: Circular,-apple-system,
+    BlinkMacSystemFont,
+    Roboto,Helvetica Neue,sans-serif !important;
+}
+button {
+
+    background-color: rgb(228, 15, 15);
+    height: 30px;
+    
+   
+}
+input {
+
+    padding: 11px;
+    border-radius: 5px;
+} 
+
+
+ 
+
+
