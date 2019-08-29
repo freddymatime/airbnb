@@ -90,7 +90,65 @@ input {
     border-radius: 5px;
 } 
 
+.appart {
 
- 
+display: flex;
+
+}
+.photo {
+
+    width: 333px;
+    height: 222px;
+}
+.appart{
+    display: flex;
+    justify-content: space-around;
+
+}
+.reserve img {
+    width: 246px;
+    height: 164px;
+    
+}
+.reserve {
+    display: flex;
+}
+ .voyager{
+     display: flex;
+ }
+ .date{
+     display: flex;
+     flex-direction: column;
+     margin-top:50px;
+ }
 
 
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+ul{
+
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+body{
+    margin: 0;
+}
+
+header, main ,footer {
+
+    padding: 0 60px 0 60px;
+}
+
+.horaire{
+
+    display: flex;
+}
