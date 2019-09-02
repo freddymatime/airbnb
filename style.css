@@ -511,8 +511,13 @@ header {
         .titre {
             margin: 100px 0 100px 100px;
         }
+
+
+        body{
+            display: flex;
+            flex-direction: column;
+        }
     }
 
 
 
-    
